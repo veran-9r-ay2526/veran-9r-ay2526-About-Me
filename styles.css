@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://i.redd.it/i7u3wukzgr4b1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hero-img {
+    background-image: url(https://www.solidbackgrounds.com/images/3840x2160/3840x2160-black-solid-color-background.jpg);
+    width: 100%;
+    height: relative;
+    color: black;
+}
+
+.hero-text{
+    text-align: center;
+    color: white;
+}
+.col-sm-5{
+    background-color: rgba(255, 255, 255, 0.8);
+    border: solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+h3{
+    text-align: center;
+}
+
+.box{
+    background-color: black;
+    border: solid;
+    border-radius: 15px;
+    border-color: black;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+audio {
+	margin: 20px auto;
+	display: block;
+	margin-top: 100px;
+}
